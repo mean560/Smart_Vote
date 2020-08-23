@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Vote</string>
+    <string name="election_th" translatable="false">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="count_down">Count Down To Election Day</string>
+    <string name="days_textView">Days</string>
+    <string name="hour_textView">Hours</string>
+    <string name="mins_textView">Minutes</string>
+    <string name="second_textView">Seconds</string>
+    <string name="next_button">NEXT</string>
+</resources>
